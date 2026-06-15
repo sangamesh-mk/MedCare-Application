@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Smart Care Management System",
+  "description": "A comprehensive, hospital care dashboard tracking emergencies, patient care, staff tasks, and messaging across Admins, Doctors, Staff, and Patients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
